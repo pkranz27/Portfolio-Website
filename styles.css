@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; 
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+    background-image: url("https://img.freepik.com/premium-vector/retro-sci-fi-futuristic-vector-background-1980s-1990s-style-3d-illustration-digital-landscape_628247-71.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 

@@ -1,0 +1,20 @@
+.profile-pic{
+    border-radius: 230px;
+    border-style: inset 3px black;
+    box-shadow:3px 3px 3px  purple;
+    transform: rotate(360deg);
+    animation-name: my-animation;
+  animation-duration: 6s;
+  animation-direction: alternate;
+  animation-iteration-count: 2;
+  animation-timing-function: linear;
+}
+@keyframes my-animation {
+    from {
+        transform: translateY(20px);
+      }
+      to {
+        transform: translateY(0px);
+      }
+    
+  }
